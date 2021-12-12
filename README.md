@@ -1,15 +1,17 @@
 # Semantic Database
 
 ##[Semantics](https://en.wikipedia.org/wiki/Semantics)
-Semantic data stand for data is referencing to meaning and context: the color red has a complete other meaning in another context. For example, there is a political color red, there is alizarin red, an oil-paint pigment/color, red states in the US are republican dominated states, but red countries are communist countries. Redskin is disrespectful slang for native Americans, while red skin can indicate seborrheic dermatitis.
-On a banc-account, red stands for depts and in romantic communication red stands for warmth and love.
+Semantic data stand for data is referencing to meaning and context:
+
+For example: Red has a complete other meaning in another context. For example, there is a political color red, there is alizarin red, an oil-paint pigment/color, red states in the US are republican dominated states, but red countries are communist countries. Redskin is disrespectful slang for native Americans, while red skin can indicate seborrheic dermatitis.
+On a banc-account, red stands for depts and in romantic communication red stands for warmth and love, in your car, on the dashboard-gauges, mostly they indicate a critical situation.
 There is a lot to say about semantics, I just wanted to give examples of its importance
 
-Data should be stored in context semantic explanation, only in this way can be searched and can be found.
+To understand data, the context must be known. That is what the semantic database provides, context and meaning.
 
 The design principles should be simple, the possibilities to use it should be endless
 
-I'm building a simple infrastructure that I call "semantic database". For now it is a hobby project, just for fun.
+For now it is a hobby project, just for fun.
 
 #### OpenEhr
 
